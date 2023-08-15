@@ -1,2 +1,2 @@
-# data-git.txt
+# data-git-test
 Repo untuk mencoba git mode
